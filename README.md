@@ -13,10 +13,10 @@ I'm an MSc candidate in **Microbiology & Immunology**, completing a collaborativ
 
 ### Technical skills
 
-**Programming:** R, Python, SQL, Bash, SAS
-**Bioinformatics:** Seurat, Scanpy, Bioconductor, Cell Ranger, DESeq2 and more
-**Computing:** Linux/Unix, HPC/SLURM, Git/GitHub
-**Methods:** scRNA-seq, bulk RNA-seq, survival analysis, statistical modelling, data visualization
+* **Programming:** R, Python, SQL, Bash, SAS
+* **Bioinformatics:** Seurat, Scanpy, Bioconductor, Cell Ranger, DESeq2 and more
+* **Computing:** Linux/Unix, HPC/SLURM, Git/GitHub
+* **Methods:** scRNA-seq, bulk RNA-seq, survival analysis, statistical modelling, data visualization
 
 ### Currently
 
